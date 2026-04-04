@@ -1,0 +1,27 @@
+{
+  "name": "אל-נקווה | טפסי בדיקה חשמל",
+  "short_name": "אל-נקווה",
+  "description": "טפסי בדיקה חשמל מקצועיים — אל-נקווה בע\"מ",
+  "start_url": "/Ell-neckave/",
+  "scope": "/Ell-neckave/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/Ell-neckave/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Ell-neckave/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

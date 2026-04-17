@@ -1,4 +1,4 @@
-const CACHE = 'al-nakwa-v8';
+const CACHE = 'al-nakwa-v9';
 const FILES = [
   '/Ell-neckave/',
   '/Ell-neckave/index.html',
